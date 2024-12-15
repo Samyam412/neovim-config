@@ -1,4 +1,3 @@
-Got it! Here's an updated `README.md` tailored for a LazyVim-based Neovim configuration:
 
 ```markdown
 # Neovim Configuration (LazyVim)
